@@ -10,6 +10,7 @@ assignees: ''
 # RFC (Request for Comments) Template
 
 ## Please select your type of RFC (one or more):
+_Put an `x` in the boxes that apply_
 
 - [ ] Change ?
 - [ ] Method ?
@@ -24,6 +25,7 @@ assignees: ''
 - Reference Issues: (fill in existing related issues, if any)
 
 ## Does this introduce a breaking change?
+_Put an `x` in the box that applies_
 
 - [ ] Yes
 - [ ] No
