@@ -1,2 +1,1 @@
-# rfcs
-RFCs for Quasar Framework
+Repo for RFCs on Quasar Framework
