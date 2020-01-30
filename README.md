@@ -1,1 +1,5 @@
-Repo for RFCs on Quasar Framework [WIP]
+Quasar Framework RFCs [WIP]
+===
+
+This area is a place for RFCs (Request for Comments), which will describe changes, methods, behaviors, research, or innovations applicable to the next version of Quasar Framework.
+
